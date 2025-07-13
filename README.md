@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **PHP, Laravel, CodeIgniter, MySQL, REST APIs**
 
-- 📫 How to reach me: **souravlai7@gmail.com**
+- 📫 How to reach me: **souravlai7@webtechdomains.in**
 
 - ⚡ Fun fact: **I automate everything I can!**
 
